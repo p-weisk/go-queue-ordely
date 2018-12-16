@@ -1,3 +1,6 @@
+// Copyright (c) 2018 Paul Weiske
+//This Code is licensed under the MIT License, see LICENSE file for details.
+
 package gojobqueue
 
 import (
